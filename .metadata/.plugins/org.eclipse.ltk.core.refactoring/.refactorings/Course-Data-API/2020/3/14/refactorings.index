@@ -1,0 +1,12 @@
+1585465220597	Rename package 'io.javabrain.topic'
+1585473087248	Copy package
+1585473211244	Rename type 'Topic'
+1585473220735	Rename type 'TopicController'
+1585473227767	Rename type 'TopicRepository'
+1585473236604	Rename type 'TopicService'
+1585473376004	Rename field 'topicRepositiory'
+1585473983084	Rename field 'topicSerivce'
+1585474279919	Encapsulate field 'topic'
+1585474360827	Encapsulate field 'topic'
+1585474491830	Encapsulate field 'topic'
+1585474552080	Rename field 'topicService'
